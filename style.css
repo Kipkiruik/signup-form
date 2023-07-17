@@ -1,0 +1,36 @@
+.form{
+    border: solid 2px rgb(22, 21, 21);
+    text-align: center;
+    border-radius: 30px;
+    margin-left: 8em;
+    margin-right: 8em;
+    margin-top: 1em;
+    padding-top: 2em;
+ 
+    background-color: rgb(232, 240, 234);
+}
+.ip{
+    border-radius: 30px;
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 0.3em;
+    padding-top: 0.3em;
+    margin-bottom: 0.6em;
+    color: rgb(222, 31, 252);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.reg{
+    
+    border-radius: 30px;
+    padding-top: 0.4em;
+    padding-bottom: 0.5em;
+    font-size: 20px;
+    margin-bottom: 1em;
+    margin-top: 0.6em;
+    
+
+}
+.reg:hover{
+  
+}
